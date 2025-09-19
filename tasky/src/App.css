@@ -42,6 +42,9 @@ div {
 }
 
 .description {
-  font-size: bold;
-  font-weight: 3.1em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.priority {
+  font-weight: bold;
 }
