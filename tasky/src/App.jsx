@@ -19,7 +19,7 @@ function App() {
     title: "",
     description: "",
     deadline: "",
-    priority: "",
+    priority: "Low",
     });
 
     const doneHandler = (taskIndex) => {
