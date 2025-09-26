@@ -103,3 +103,22 @@ form {
   width: 50%;
   margin: auto;
 }
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.option1 {
+  background-color: #ff0000;
+}
+.option2 {
+  background-color: #ffee00;
+}
+.option3 {
+  background-color: #00ff00;
+}
