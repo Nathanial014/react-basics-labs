@@ -3,7 +3,6 @@ import Task from './components/Task';
 import React, { useState, useEffect } from 'react';
 import {getTasks, addTask, deleteTask, updateTask} from "./api/tasky-api";
 import AddTaskForm from './components/Form';
-import { v4 as uuidv4 } from 'uuid';
 
 
 function App() {
